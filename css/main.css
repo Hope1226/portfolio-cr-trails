@@ -339,7 +339,7 @@ li {
   font-size: 32px;
   line-height: 44px;
   text-align: center;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .contact-form {
@@ -352,14 +352,14 @@ li {
 
 .contact-form input {
   padding: 10px;
-  border: 1px solid #DFE1E6;
+  border: 1px solid #dfe1e6;
 }
 
 .contact-form textarea {
   height: 150px;
   padding: 10px;
-  background-color: #FBF8F7;
-  border: 1px solid #DFE1E6;
+  background-color: #fbf8f7;
+  border: 1px solid #dfe1e6;
 }
 
 .contact-form button {
@@ -373,8 +373,9 @@ li {
 }
 
 .footer {
-  border-top: 1px solid #DFE1E6;
+  border-top: 1px solid #dfe1e6;
 }
+
 .footer ul {
   display: flex;
   justify-content: space-around;
