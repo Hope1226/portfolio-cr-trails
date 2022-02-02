@@ -352,14 +352,14 @@ li {
 
 .contact-form input {
   padding: 10px;
-  border: 1px solid #FBF8F7;
+  border: 1px solid #DFE1E6;
 }
 
 .contact-form textarea {
   height: 150px;
   padding: 10px;
   background-color: #FBF8F7;
-  border: 1px solid #FBF8F7;
+  border: 1px solid #DFE1E6;
 }
 
 .contact-form button {
