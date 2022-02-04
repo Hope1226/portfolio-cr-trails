@@ -5,7 +5,7 @@
 > Portfolio-Project
 
 
-![screenshot](Assets/images/background/README/project-screen.png)
+![screenshot](project-screen.png)
 
 
 This project has been created within the frames of the Microverse curriculum for the purpose of creating personal portfolio website.
@@ -17,7 +17,7 @@ This project has been created within the frames of the Microverse curriculum for
 
 ## Live Demo
 
-[www.hope-portfolio.oi](https://hope1226.github.io/Project-Portfolio/)
+Pending
 
 
 ## Getting Started
@@ -26,14 +26,24 @@ To get a local copy up and running follow these simple example steps.
 
 ## Setup
 
+### Step 1:
+- Copy the link of this repo by clicking the green button - "code" on the right-top corner
+- Clone this repo locally by running the following command in your terminal:
+
+  `git clone git@github.com:Hope1226/portfolio-cr-trails.git`
+
+### Step 2:
+- Run `index.html` file in your browser
+- Open the borwser tool-box 
+- Switch to Mobile view mode.
+
 
 ## Authors
 
 👤 **Hope**
 
 - GitHub: [@Hope1226](https://github.com/Hope1226)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/umidjon-ustabaev/)
 
 
 ## 🤝 Contributing
